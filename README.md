@@ -9,8 +9,8 @@ dials 911 and tells your place.
 
 Example ScreenShot From App:
 
-<img src="https://raw.githubusercontent.com/halitdincer/distresscall/master/Screenshot%20From%20App/Interface_Screen.png" width="200" height="650">
-                                               <img src="https://raw.githubusercontent.com/halitdincer/distresscall/master/Screenshot%20From%20App/Emergency_Screen.png" width="2000" height="650">
+<img src="https://raw.githubusercontent.com/halitdincer/distresscall/master/Screenshot%20From%20App/Interface_Screen.png" width="220" height="650">
+                                               <img src="https://raw.githubusercontent.com/halitdincer/distresscall/master/Screenshot%20From%20App/Emergency_Screen.png" width="220" height="650">
 
 
 
